@@ -26,7 +26,7 @@ public class A {
 		}*/
 	
 	static A a1=null;
-	
+	//test
 	private A() {
 		
 	}
